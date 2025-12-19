@@ -1,4 +1,4 @@
-# Bureau Cluster Analysis (Template)
+# Bureau Cluster Analysis
 
 This repository is a **starter template** for a credit-risk analytics project focused on **Bureau Cluster (BC) movement and stability**.
 It is organized for clean project management and reproducible analysis with:
@@ -45,7 +45,7 @@ source .venv/bin/activate   # mac/linux
 pip install -r requirements.txt
 ```
 
-3) Put your input files into `data/raw/` (CSV / parquet extracts).
+3) Input files into `data/raw/` (CSV / parquet extracts).
 
 4) Run notebooks in order:
 - `01_data_cleaning.ipynb` → produces `data/interim/*`
@@ -66,5 +66,3 @@ Typical outputs saved to `data/processed/`:
 - `transition_matrix_pct.csv`
 - `movement_patterns_top.csv`
 
-## License
-MIT (edit if needed)
