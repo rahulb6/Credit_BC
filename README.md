@@ -1,4 +1,4 @@
-# Bureau Cluster Analysis (Template)
+# Bureau Cluster Analysis
 
 This repository is a **starter template** for a credit-risk analytics project focused on **Bureau Cluster (BC) movement and stability**.
 It is organized for clean project management and reproducible analysis with:
